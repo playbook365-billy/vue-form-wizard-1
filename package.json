@@ -133,7 +133,7 @@
   "name": "vue-form-wizard",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cristijora/vue-form-wizard.git"
+    "url": "git+https://github.com/playbook365/vue-form-wizard.git"
   },
   "scripts": {
     "build": "cross-env FULL_BUNDLE=false webpack -p --progress --config webpack.build.config.js",
